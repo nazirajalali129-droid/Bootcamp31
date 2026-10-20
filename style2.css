@@ -4769,7 +4769,7 @@ header[id] {
 /* Top Badge */
 
 .nil-badge-one {
-  top: 58%;
+  top: 35%;
   right: -10%;
 }
 
@@ -4777,7 +4777,7 @@ header[id] {
 
 .nil-badge-two {
   top: 60%;
-  right: 40%;
+  right: 50%;
 }
 
 /* Icon */
