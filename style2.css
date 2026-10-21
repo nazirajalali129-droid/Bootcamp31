@@ -2404,7 +2404,7 @@ header[id] {
   text-align: center;
   background-image:
     linear-gradient(rgba(2, 15, 5, 0.977), rgba(5, 20, 10, 0.68)),
-    url("images/footer.jpg");
+    url("Images/footer.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -4522,7 +4522,7 @@ header[id] {
       rgba(0, 0, 0, 0.1) 55%,
       rgba(0, 0, 0, 0.16) 100%
     ),
-    url("Images/hero_background.jpg.jpeg");
+    url("Images/hero_background.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
