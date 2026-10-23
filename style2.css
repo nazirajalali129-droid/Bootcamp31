@@ -5158,18 +5158,18 @@ header[id] {
   }
 
   .nil-badge-one {
-    top: 45px;
-    right: 3%;
+    top: 40px;
+    right: 2%;
   }
 
   .nil-badge-two {
     top: 140px;
-    left: 15%;
+    left: -3%;
     right: auto;
   }
 
   .nil-client-badge {
-    left: 10%;
+    left: -9%;
     bottom: 1px;
     transform: translateX(-50%);
   }
